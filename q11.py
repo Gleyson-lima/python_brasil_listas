@@ -1,0 +1,6 @@
+num1=int(input("informe um numero: "))
+num2=int(input("informe um numero: "))
+num3=float(input("informe um numero: "))
+print(f"produto do dobro do primeiro pela metade do segundo: {(num1*2)+(num2/2)}")
+print(f"a soma do triplo do primeiro com o terceiro: {(num1*3)+num3}")
+print(f"terceiro elevado ao cubo: {num3**3}")
